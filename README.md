@@ -1,4 +1,4 @@
-# PyTorch Learning Repository
+# 나만의 작은 PyTorch Learning Repository
 
 ![PyTorch Logo](https://pytorch.org/assets/images/pytorch-logo.png)
 
